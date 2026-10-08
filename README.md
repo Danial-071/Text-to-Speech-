@@ -21,7 +21,7 @@ A Google Colab-based speech-to-text meeting assistant. The notebook accepts an a
 
 ## Usage
 
-1. Open [`Text_to_Speech.ipynb`](./Text_to_Speech.ipynb) in Google Colab.
+1. Open [`Speech-to-Text.ipynb`](./Speech-to-Text.ipynb) in Google Colab.
 2. Run the installation cells and configure your OpenRouter credentials.
 3. Run the notebook cells in order.
 4. Upload a meeting audio file in the Gradio interface.
@@ -29,7 +29,7 @@ A Google Colab-based speech-to-text meeting assistant. The notebook accepts an a
 
 You can also open the notebook directly in Colab:
 
-[Open in Google Colab](https://colab.research.google.com/github/Danial-071/Text-to-Speech-/blob/main/Text_to_Speech.ipynb)
+[Open in Google Colab](https://colab.research.google.com/github/Danial-071/Text-to-Speech-/blob/main/Speech-to-Text.ipynb)
 
 ## Processing Workflow
 
